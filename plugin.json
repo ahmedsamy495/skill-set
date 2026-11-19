@@ -1,0 +1,17 @@
+{
+  "name": "engineering-skills",
+  "displayName": "Engineering Skills Catalog",
+  "description": "Standardized engineering skills for Git workflows, code reviews, test-driven development, REST API design, and frontend architecture.",
+  "version": "1.0.0",
+  "author": "Ahmed Samy",
+  "homepage": "https://github.com/ahmedsamy495/skill-set",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahmedsamy495/skill-set.git"
+  },
+  "suggestedPrompts": [
+    "Review my staged git changes and draft a conventional commit message",
+    "Perform a 4-pass code review on this pull request or diff",
+    "Scaffold a REST API endpoint following RFC 7807 problem details"
+  ]
+}
